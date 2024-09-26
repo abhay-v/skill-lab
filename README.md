@@ -6,4 +6,4 @@ This Repository contains the files for the experiments performed during the skil
 
 The source file contains schematic-documentation pairs, where corresponding files have the same base names.
 
-Schematic files have the .asc extension, and documentation files have the .md extension.
+Schematic files have the .asc extension, and documentation files are either markdown files, or image files.
